@@ -1,5 +1,7 @@
 package cardgamew23tueam;
 
+//23
+
 public class Card {
 
 	public enum Hi{
