@@ -2,7 +2,9 @@ package cardgamew23tueam;
 
 public class Card {
 
-	
+	public enum Hi{
+            OH
+        };
         public enum Suit {
         HEARTS,DIAMONDS,SPADES,CLUBS
         };
